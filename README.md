@@ -8,3 +8,4 @@
 
 - [部品表](https://docs.google.com/spreadsheets/d/1xVUbobURHwBgAgbBJVKqeSEPdVH2p0qffykU0qcphyc/edit?usp=sharing)
 - [回路図](./schematic.pdf)
+- [ガーバー](./Gerber)
